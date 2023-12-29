@@ -17,13 +17,5 @@ The Random Quote Machine is a simple yet interactive application that displays q
 - **User Story #6**: Horizontally centered #quote-box for better aesthetics.
 - **Responsive Design**: Ensures that the application is usable on a variety of devices.
 
-### License:
-This project is licensed under the [Your License] - see the LICENSE.md file for details.
-
 ### Acknowledgments:
 - Quote API for providing an extensive collection of quotes.
-- [Any other resources you used or individuals you want to acknowledge].
-
----
-
-Make sure to replace placeholders like `[repository URL]` and `[Your License]` with actual information about your project. Additionally, it's good practice to include a file named `CONTRIBUTING.md` if you are open to others contributing to your project, and a `LICENSE.md` file to clearly state how others can use your project.
